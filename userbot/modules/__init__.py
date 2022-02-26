@@ -3,8 +3,8 @@
 # Licensed under the Raphielscape Public License, Version 1.d (the "License");
 # you may not use this file except in compliance with the License.
 #
-# Recode by @mrismanaziz
-# FROM Man-Userbot <https://github.com/mrismanaziz/Man-Userbot>
+# Recode by @Jesjajus
+# FROM JESXZY-UBOT <https://github.com/jessubot/JESXZY-UBOT>
 # t.me/SharingUserbot & t.me/Lunatic0de
 
 import sys
