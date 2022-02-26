@@ -1,9 +1,9 @@
 {
-  "name": "Man-Userbot",
-  "description": "[Man-Userbot] userbot Telegram modular yang berjalan pada Python 3.9+",
-  "logo": "https://telegra.ph/file/9dc4e335feaaf6a214818.jpg",
-  "keywords": ["telegram", "userbot", "man-userbot", "modular", "python"],
-  "repository": "https://github.com/mrismanaziz/Man-Userbot",
+  "name": "JESXZY-UBOT",
+  "description": "[JESXZY-UBOT] userbot Telegram modular yang berjalan pada Python 3.9+",
+  "logo": "https://telegra.ph/file/749641a375bb5862000e7.jpg",
+  "keywords": ["telegram", "userbot", "jesxzy-ubot", "modular", "python"],
+  "repository": "https://github.com/jessubot/JESXZY-UBOT",
   "stack": "container",
   "env": {
     "API_KEY": {
